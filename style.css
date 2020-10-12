@@ -3,7 +3,6 @@
   padding: 0;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   scroll-behavior: smooth;
-  /* box-sizing: border-box; */
   list-style: none;
 }
 
@@ -55,17 +54,7 @@ header ul li a:hover {
   display: none;
 }
 
-/* section {
-  position: relative;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  min-height: 100vh;
-  padding: 150px 100px 100px;
-} */
-
 .section-header {
-  /* position: relative; */
   background-image: url("cart.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -73,14 +62,11 @@ header ul li a:hover {
   min-height: 100vh;
   padding-top: 15rem;
   text-align: center;
-
-  /* display: flex; */
 }
 
 .section-md {
   text-align: center;
   text-transform: uppercase;
-  /* color: #fff; */
   font-size: 3rem;
   width: 70%;
   margin: auto;
@@ -88,7 +74,6 @@ header ul li a:hover {
 
 .increase {
   font-size: 3rem;
-  /* line-height: 3rem; */
   padding-top: 6rem;
 }
 
@@ -242,8 +227,7 @@ img {
 
 .body {
   min-height: 100vh;
-  /* display: block; */
-  background: url("pexels-pixabay-415585.jpg") no-repeat top center;
+  background: url("/images/pexels-pixabay-415585.jpg") no-repeat top center;
   background-size: cover;
 }
 
@@ -437,12 +421,4 @@ footer {
     font-size: 1.3rem;
     padding-top: 5rem;
   }
-
-  /* .section-header {
-    padding-top: 3rem;
-  }
-
-  .increase {
-    padding-bottom: 1rem;
-  } */
 }
