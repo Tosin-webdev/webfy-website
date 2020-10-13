@@ -1,5 +1,5 @@
-const header = document.getElementById("header");
+    const header = document.getElementById("header");
 
-function toggle() {
+ function toggle() {
   header.classList.toggle("active");
 }
