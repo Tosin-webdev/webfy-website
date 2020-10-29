@@ -55,7 +55,7 @@ header ul li a:hover {
 }
 
 .section-header {
-  background-image: url("/images/pexels-cottonbro-3584998.jpg");
+  background-image: url("/images/pexels-cottonbro-3584998-min.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -229,7 +229,7 @@ img {
 
 .body {
   min-height: 100vh;
-  background: url("/images/pexels-pixabay-415585.jpg") no-repeat top center;
+  background: url("/images/pexels-pixabay-415585-min.jpg") no-repeat top center;
   background-size: cover;
 }
 
