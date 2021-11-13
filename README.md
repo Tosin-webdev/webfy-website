@@ -1,2 +1,2 @@
 # webfy-website
-A simple business landing page website.
+This is a business landing page website.
